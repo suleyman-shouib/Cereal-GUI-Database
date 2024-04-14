@@ -1,0 +1,15 @@
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\bin\Debug\netcoreapp3.1\ShouibSA2.exe
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\bin\Debug\netcoreapp3.1\ShouibSA2.deps.json
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\bin\Debug\netcoreapp3.1\ShouibSA2.runtimeconfig.json
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\bin\Debug\netcoreapp3.1\ShouibSA2.runtimeconfig.dev.json
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\bin\Debug\netcoreapp3.1\ShouibSA2.dll
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\bin\Debug\netcoreapp3.1\ShouibSA2.pdb
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\obj\Debug\netcoreapp3.1\ShouibSA2.csprojAssemblyReference.cache
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\obj\Debug\netcoreapp3.1\ShouibSA2.Form1.resources
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\obj\Debug\netcoreapp3.1\ShouibSA2.csproj.GenerateResource.cache
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\obj\Debug\netcoreapp3.1\ShouibSA2.AssemblyInfoInputs.cache
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\obj\Debug\netcoreapp3.1\ShouibSA2.AssemblyInfo.cs
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\obj\Debug\netcoreapp3.1\ShouibSA2.csproj.CoreCompileInputs.cache
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\obj\Debug\netcoreapp3.1\ShouibSA2.dll
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\obj\Debug\netcoreapp3.1\ShouibSA2.pdb
+C:\Users\tshou\source\repos\ShouibSA2\ShouibSA2\obj\Debug\netcoreapp3.1\ShouibSA2.genruntimeconfig.cache
